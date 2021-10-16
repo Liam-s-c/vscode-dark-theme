@@ -1,10 +1,21 @@
 {
     "name": "liamsc-net-dark",
     "displayName": "liamsc.net dark",
-    "description": "liamsc.net's dark theme!",
-    "version": "0.0.1",
+    "description": "The VS Code theme created by LiamSC!",
+    "version": "0.1.0",
+    "publisher": "Liamsc",
     "engines": {
         "vscode": "^1.61.0"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "liamsc",
+        "liam sc"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Liam-s-c/vscode-dark-theme"
     },
     "categories": [
         "Themes"

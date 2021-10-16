@@ -2,10 +2,24 @@
 	"name": "Liamsc's Dark Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#191919",
+		"editor.foreground": "#ffffff",
+		"activityBarBadge.background": "#2A482B",
+		"activityBarBadge.foreground": "#ffffff",
+		"sideBarTitle.foreground": "#82B583",
+		"sideBarSectionHeader.background": "#222222",
+		"sideBar.background": "#191919",
+		"button.background": "#243D24",
+		"button.hoverBackground": "#4e884e",
+		"icon.foreground": "#28b389",
+		"minimap.background": "#1B2D1B0f",
+		"menu.border": "#5EA060",
+		"activityBar.background": "#19191975",
+		"activityBar.activeBackground": "#2A482B",
+		"tab.activeBackground": "#2A482B3f",
+		"statusBar.background": "#2a482b7f",
+		"titleBar.activeBackground": "#191919"
+
 	},
 	"tokenColors": [
 		{
@@ -16,7 +30,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#b5b9bb"
 			}
 		},
 		{
@@ -45,7 +59,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#FF6978"
 			}
 		},
 		{
@@ -56,7 +70,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#cc4e65"
 			}
 		},
 		{
@@ -76,7 +90,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#53D3EA"
 			}
 		},
 		{
@@ -87,7 +101,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#cf5063"
 			}
 		},
 		{
@@ -286,7 +300,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff0000"
 			}
 		},
 		{
