@@ -2,8 +2,11 @@
 
 All notable changes to the "liamsc-net-dark" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [Released]
+
+- Initial release - 0.1.0
+- Updates to icon, and read me files - 0.1.4
 
 ## [Unreleased]
 
-- Initial release
+- 1.0.0 Release, fully changing all the colors
