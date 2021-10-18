@@ -1,6 +1,6 @@
 
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="100" src="http://liamsc.net/img/icon-128.png" alt="Liamsc logo" align="center">
+  <img width="100" src="https://liamsc.net/img/icon-128.png" alt="Liamsc logo" align="center">
 </p>
 <h1 align="center" style="margin-top: 0px;">Visual Studio Code Theme</h1>
 <h4 align="center" style="margin-top:5px;">A Darkmode Visual Studio Code Theme</h4>
