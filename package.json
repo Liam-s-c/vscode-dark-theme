@@ -2,7 +2,7 @@
     "name": "liamsc-net-dark",
     "displayName": "liamsc.net dark",
     "description": "The Visual Studio Code theme created by LiamSC!",
-    "icon": "/icon-128.png",
+    "icon": "icon-128.png",
     "version": "0.1.3",
     "publisher": "LiamSC",
     "engines": {
