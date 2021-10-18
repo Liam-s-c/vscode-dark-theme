@@ -1,9 +1,10 @@
 {
     "name": "liamsc-net-dark",
     "displayName": "liamsc.net dark",
-    "description": "The VS Code theme created by LiamSC!",
-    "version": "0.1.0",
-    "publisher": "Liamsc",
+    "description": "The Visual Studio Code theme created by LiamSC!",
+    "icon": "https://liamsc.net/img/icon-128.png",
+    "version": "0.2.0",
+    "publisher": "LiamSC",
     "engines": {
         "vscode": "^1.61.0"
     },
