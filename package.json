@@ -3,7 +3,7 @@
     "displayName": "liamsc.net dark",
     "description": "The Visual Studio Code theme created by LiamSC!",
     "icon": "/icon-128.png",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "LiamSC",
     "engines": {
         "vscode": "^1.61.0"
