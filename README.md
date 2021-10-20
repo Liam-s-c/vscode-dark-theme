@@ -13,7 +13,7 @@
 
 <h5 align="center" style="margin-top:5px;">Downloads:</h5>
 
-Download on the: [Marketplace](https://https://marketplace.visualstudio.com/items?itemName=Liamsc.liamsc-net-dark&ssr=false#overview) or just search in the extensions tab "liamsc-dark-theme".
+Download on the: [Marketplace](https://marketplace.visualstudio.com/items?itemName=Liamsc.liamsc-net-dark&ssr=false#overview) or just search in the extensions tab "liamsc-dark-theme".
 
 ----
 <h5 align="center" style="margin-top:5px;">Other links:</h5>
