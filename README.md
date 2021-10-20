@@ -5,8 +5,9 @@
 <h1 align="center" style="margin-top: 0px;">Visual Studio Code Theme</h1>
 <h4 align="center" style="margin-top:5px;">A Darkmode Visual Studio Code Theme</h4>
 <h5 align="center" style="margin-top:0px;">This is another dark theme that you didn't need or want
-<br>Powered by caffeine and the color green, developed by <a href="https://github.com/liam-s-c">Liamsc</a>.
-</h5>
+<br>Powered by caffeine and the color green, developed by <a href="https://github.com/liam-s-c">Liamsc</a>.</h5>
+<h2 align="center" style="margin-top:10px"> <br>Current Version: <a href="https://github.com/Liam-s-c/vscode-dark-theme/releases/latest">0.1.4</a>
+</h2>
 
 ----
 
@@ -19,8 +20,18 @@ Download on the: [Marketplace](https://https://marketplace.visualstudio.com/item
 
 
 [Github Repo](https://https://github.com/Liam-s-c/vscode-dark-theme)
+
 [Liamsc.net](https://liamsc.net/)
+
 [liamsc.net/vscode-theme](https://liamsc.net/projects/downloads/vscode-theme)
+
+----
+
+- [ ] 1.0.0 Release:
+  - [ ] Recolor most of the theme
+  - [ ] First full commit / publish
+  - [ ] Complete the repo
+  - [ ] Make a logo for it
 
 
 
